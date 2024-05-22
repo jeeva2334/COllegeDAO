@@ -1,0 +1,2 @@
+export const DAOAddress = "0x98959c2d9ef88853cEB95157f8e33f112a25a008";
+export const KiTEToken = "0x1adF27E95A9B002Fb88b79116886C10082B7dB2e";
